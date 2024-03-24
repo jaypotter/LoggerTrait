@@ -1,0 +1,2 @@
+# LoggerTrait
+PHP Logger Trait
